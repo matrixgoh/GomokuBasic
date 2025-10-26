@@ -1,0 +1,5 @@
+{
+  "name": "GomokuBasic",
+  "description": "Play the classic game of Gomoku (Five in a Row) against a strategic AI opponent powered by the Gemini API. Challenge the AI on a 15x15 board and see if you can outsmart it.",
+  "requestFramePermissions": []
+}
